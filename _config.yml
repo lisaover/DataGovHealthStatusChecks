@@ -1,1 +1,73 @@
+# Base configuration
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+markdown: kramdown
+highlighter: rouge
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Title
+name: DataGovHealthStatusChecks
+subtitle: Tools and procedures developed for the City of Pittsburgh's Data Governance Health Status Checks and for the Design Methods Sequence courses at the University of Pittsburgh
+
+# When using this template with a project page set the baseurl to '/project-name'
+# For user/organization pages set this to an empty string
+# When working locally use jekyll serve --baseurl '' so that you can view everything at localhost:4000
+# See http://jekyllrb.com/docs/github-pages/ for more info
+#baseurl: ''
+baseurl: '/DataGovHealthStatusChecks'
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Lisa Over
+  url: https://lisaover.com
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl:
+logoalt:
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: ./
+  internal: true
+- text: Contextual Design Research
+  url: contextual_design_research/
+  internal: true
+- text: Contextual Design Models
+  url: contextual_design_models/
+  internal: true
+#- text: Contextual Design Report
+#  url: contextual_design_report/
+#  internal: true
+- text: Implementation Plan
+  url: implementation_plan/
+  internal: true
+- text: Prototype and Feedback
+  url: prototype_and_feedback/
+  internal: true
+- text: Final Product
+  url: final_product/
+  internal: true
+- text: Tracking and Summary Tables
+  url: tracking_and_summary_tables/
+  internal: true
+- text: Critical Records Program
+  url: critical_records_program/
+  internal: true
+
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+
+# Style Variables
+brand_color: "#2cb34a"
+
+# Offline caching
+offline_cache: false
+cache_name: DOCter-v1.1
+
 theme: jekyll-theme-minimal
