@@ -15,7 +15,7 @@ Inconsistent methods of data generation and management, and the variety of ways 
 
 Other issues that could hinder consistent reporting of data inventories are conflicts with other reporting obligations. Our model shows the different outputs of data after they are collected on internal and external databases. Pittsburgh City departments are required by law to report various datasets in regular intervals to local, state, and federal governments. In addition, collaborative obligations with other city departments include sharing pertinent datasets. Our interviews have shown that these responsibilities take precedence over any open data efforts.
 
-<a href="https://lisaover.github.io/DataGovHealthStatusChecks/Diagrams/Identity_Model.pdf" target="_blank">**Identity Model with Matrices**</a> by LO
+<a href="https://lisaover.github.io/DataGovHealthStatusChecks/Diagrams/Identity_Model_Over_Lisa.pdf" target="_blank">**Identity Model with Matrices**</a> by Lisa Over
 
 The Identity Model with Matrices includes a model of interviewees&rsquo; roles and experience with data and of what they like or think about data or data management. It also includes three matrices that compare employee data experience measures. Refer to the <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Documents/Key_to_Identity_Model_Matrices.pdf" target="_blank">matrices key</a> for interpreting the matrices.
 
@@ -30,6 +30,15 @@ The &ldquo;I Like, I Think&rdquo; section reveals that interviewees like standar
 In addition to poor data management practices, many interviewees expressed concern that they did not have the ability or time necessary for open data publication. For example, interviewees V1 and M2 both have data savvy data analysts who are technologically capable. However, V1 believes that their team does not have the skills to manage data or create dashboards. M2 says that their team has the ability but not the time because their time is spent preparing data for government reports.
 
 The final challenge to overcome is that some interviewees identify as being &lsquo;data users&rsquo; and not &lsquo;data managers.&rsquo; Interviewees O1 and V1 have both identified very specifically as data users and have expressly stated that they are not data managers.
+
+<a href="https://lisaover.github.io/DataGovHealthStatusChecks/Diagrams/Collaboration_Model_Williams_Andrew.pdf" target="_blank">**Collaboration Model**</a> by Andrew Williams
+
+The collaboration model analyzes the processes conducted between the Department of Innovation and Performance (I&P) and other city departments that were either discussed or overlooked during interview sessions. While many of I&P&rsquo;s roles were covered, there were several variations and inconsistencies, especially relating to interviewees&rsquo; understanding of I&P&rsquo;s role with open data.
+
+I&P handles various communication processes for the city, including handling 311 calls from residents and forwarding them to appropriate city departments. Interviewees 01 and Z1, representatives from two departments that deal with 311 calls, mentioned I&P&rsquo;s role in the service while other departments interviewed that also use that service did not. I&P also manages the social media content for all city departments, but only interviewees H1 and V1 acknowledged that role. Those same two interviewees mentioned that they held regular meetings with I&P. H1 talked about working with I&P to create an alert system, while V1 discussed how I&P assists with large data transfers.
+
+The collaborative model also displays inconsistencies in awareness of I&P&rsquo;s role in making departmental data openly accessible. While most departments acknowledged that I&P played some role in making some of their data publicly available, most did not know what that data was. Even the two departments who were aware of the type of data that was accessible could not specify details about that data. Another lacuna in the processes of this model is the lack of awareness of the Open Data Ordinance itself. In conclusion, the model suggests that there is limited awareness of the collaborative roles and responsibilities between I&P and city departments, and that current communication channels are minimal. A better understanding of interdepartmental roles and improved regular communication and training would be beneficial in promoting consistent data inventories. 
+
 
 <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Diagrams/Affinity_Diagram.pdf" target="_blank">**Affinity Diagram**</a>
 
