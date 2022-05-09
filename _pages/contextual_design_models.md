@@ -5,7 +5,7 @@ title:  "Contextual Design Models"
 
 ### Models
 
-<a href="https://lisaover.github.io/DataGovHealthStatusChecks/Diagrams/Data_in_the_life_Model.pdf" target="_blank">**Data in the Life Team Consolidated Model**</a>
+<a href="https://lisaover.github.io/DataGovHealthStatusChecks/Diagrams/Data_in_the_Life_Model.pdf" target="_blank">**Data in the Life Team Consolidated Model**</a>
 
 <img src="https://lisaover.github.io/DataGovHealthStatusChecks/Images/Data_in_the_Life_Model.png" width="700" height="475" alt="Data in the Life Consolidated Model" />
 
