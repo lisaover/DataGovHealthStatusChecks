@@ -3,7 +3,7 @@ layout: page
 title:  "Tracking and Summary Tables"
 ---
 
-The <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Documents/User_Guide_Tracking_and_Summary_Tables.pdf" target="_blank"> describes the structure, variables, and values of each table and which tables and values to update.
+The <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Documents/User_Guide_Tracking_and_Summary_Tables.pdf" target="_blank">User Guide: Tracking and Summary Tables</a> describes the structure, variables, and values of each table and which tables and values to update.
 
 The <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Documents/User_Guide_Newsletter.pdf" target="_blank">User Guide: Newsletter </a> provides information on interpreting the summary tables.
 
