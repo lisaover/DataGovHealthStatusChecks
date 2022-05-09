@@ -3,13 +3,13 @@ layout: page
 title:  "Critical Records Program"
 ---
 
-<a href="https://lisaover.github.io/DataGovHealthStatusChecks/Documents/User_Guide_Critical_Records_Program.pdf" target="_blank">User Guide: Critical Records Program</a>
-
-The <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Documents/User_Guide_Newsletter.pdf" target="_blank">User Guide: Newsletter </a> provides information on interpreting the critical records report tables.
+Concern regarding data loss from the data inventories inspired the Critical Records Program component of this product. The large number of expected datasets with different update dates and update frequencies will be very difficult to maintain manually. The _Critical Records Program_ is designed to alleviate this concern by discovering data inventory records that are overdue, due, or due soon for updates or that have missing, invalid, or illogical data.
 
 <img src="https://lisaover.github.io/DataGovHealthStatusChecks/Images/Critical_Records_Report_Description.png" width="700" height="371" alt="Important data inventory records" />
 
-Concern regarding data loss from the data inventories inspired the Critical Records Program component of this product. The large number of expected datasets with different update dates and update frequencies will be very difficult to maintain manually. The _Critical Records Program_ is designed to alleviate this concern by discovering data inventory records that are overdue, due, or due soon for updates or that have missing, invalid, or illogical data.
+<a href="https://lisaover.github.io/DataGovHealthStatusChecks/Documents/User_Guide_Critical_Records_Program.pdf" target="_blank">User Guide: Critical Records Program</a>
+
+The <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Documents/User_Guide_Newsletter.pdf" target="_blank">User Guide: Newsletter </a> provides information on interpreting the critical records report tables.
 
 The _Critical Records Program_ reads data inventory records from multiple data inventory files to discover and write critical records to a report. See section 5.4.3.3 Field Descriptions for a summary of each field in the critical records report. Critical records are records that have one or more of the following health status notifications:
 
