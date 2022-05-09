@@ -19,7 +19,7 @@ Our focus will be on creating coherent and cohesive procedures, however, if time
 
 **What are the salient features of your implementation you want to test with a prototype?**
 
-The feature to be tested includes the multistep process for making data open, which is portrayed in the <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Diagrams/Vision_and_Storyboard.pdf" target="_blank">storyboard</a>. Tracking the process allows the city to measure their progress and to hold data stewards and coordinators accountable for identifying datasets, creating inventories, determining whether to make data open, and publishing data. 
+The feature to be tested includes the multistep process for making data open, which is portrayed in the <a href="https://lisaover.github.io/DataGovHealthStatusChecks/Diagrams/Vision_and_Storyboard.pdf" target="_blank">vision and storyboard</a>. Tracking the process allows the city to measure their progress and to hold data stewards and coordinators accountable for identifying datasets, creating inventories, determining whether to make data open, and publishing data. 
 
 <img src="https://lisaover.github.io/DataGovHealthStatusChecks/Images/Storyboard.jpg" width="800" Height="513" alt="Health Status Checks procedures storyboard" />
 
